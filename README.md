@@ -10,7 +10,7 @@ I do C/C++ and Python, I can do HTML and JS but I suck at them lol
 
 Learning to hack rn
 
-playing with sockets and packets are my "fetishes"
+reverse engineering go brr
 
 ---
 
